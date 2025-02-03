@@ -17,7 +17,7 @@ The project centralizes on the concept of the upbringing of small-scale vendors.
 ### The Problem (that doesn't exist)
 Imagine you've a favourite pani puri place for instance. And you only like it from a specific vendor. And now imagine, that the vendor just disappeared from their usual location. Sad right? But don't be...because we've come up with a solution specifically for that!
 ### The Solution (that nobody asked for)
-Our product let's you to track your favourite vendor anytime anywhere! The timeings, th reviews, the location, are all added!
+Our product let's you to track your favourite vendor anytime anywhere! The timeings, the reviews, the location, are all added!
 
 ## Technical Details
 ### Technologies/Components Used
@@ -30,7 +30,7 @@ For Software:
 ### Implementation
 For Software:
 # Installation
-We implemented the designing works in Figma and the website part is done through HTML, CSS, JS and linked it.
+We implemented the designing works in Figma and the website part is done through HTML, CSS, JS and linked both of it for the end product.
 
 
 ### Project Documentation
